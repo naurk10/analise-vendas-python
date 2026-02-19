@@ -22,5 +22,9 @@ Este projeto realiza análise de dados de vendas utilizando Python e Pandas, inc
 2. Execute as células em ordem
 3. Os relatórios serão gerados automaticamente
 
+## Exemplo de gráfico
+
+![Gráfico de vendas](grafico_vendas.png)
+
 ## Autor
 Naurk
