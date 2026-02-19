@@ -26,5 +26,13 @@ Este projeto realiza análise de dados de vendas utilizando Python e Pandas, inc
 
 ![Gráfico de vendas](grafico_vendas.png)
 
+## Executando o script automático
+
+Execute no terminal:
+
+```bash
+python relatorio_vendas.py
+
+
 ## Autor
 Naurk
