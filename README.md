@@ -30,8 +30,12 @@ Este projeto realiza análise de dados de vendas utilizando Python e Pandas, inc
 Naurk
 
 ## Executando o script automático
+## Análise com CSV
+Este projeto também suporta arquivos CSV.
 
 Execute no terminal:
 
 ```bash
 python relatorio_vendas.py
+
+
